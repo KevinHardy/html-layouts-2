@@ -1,0 +1,59 @@
+html, body {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+}
+
+.header {
+	width: 100%;
+	height: 10%;
+	min-height: 10%;
+	position: fixed;
+	margin: 0;
+}
+
+.button {
+	display: inline-block;
+    padding: 10px;
+    margin-top: 2%;
+    color: #fff;
+    position: fixed;
+    left: 0;
+}
+
+.one {
+	left: 5%;
+}
+
+.two {
+	left: 20%;
+}
+
+.container {
+	width: 100%;
+	height: 90%;
+}
+
+.text {
+	width: 30%;
+	height: 90%;
+	padding: 15%;
+}
+
+.image {
+	width: 30%;
+	height: 90%;
+	padding: 15%;
+	margin-left: 50%;
+}
+
+.footer {
+	width: 100%;
+	height: 10%;
+	min-height: 10%;
+	clear: none;
+}
+
+.grey {
+	background-color: #333333;
+}
