@@ -42,12 +42,16 @@ html, body {
 }
 
 .image {
-	height: 80%;
-	width: 90%;
+	background: url("http://cms.neotv.com.cn/uploadfile/2015/0104/20150104091843986.jpg") center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 40%;
+	width: 100%;
 	margin: 5%;
 }
 
 .bottom {
+	display: inline-block;
 	height: 10%;
 	width: 100%;
 	margin-top: 90%;
